@@ -53,7 +53,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a full stack engineer based in New York, NY. Specializing in developing exceptional web
-      applicatinos.
+      applications.
     </p>
   );
   const five = (
